@@ -1,5 +1,5 @@
 # activity-guide-javaee-payara
-Oracle MyLearn Activity Guide (Java EE 7/8) (Payara + NetBeans)
+Oracle MyLearn Activity Guide (Java EE 7) (Payara + NetBeans)
 
 
 Payara version:
